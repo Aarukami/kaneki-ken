@@ -1,15 +1,15 @@
 {
-      "name": "EmiliaBot",
+      "name": "Chifuyubot",
       "description": "An Anime themed Telegram group management bot.",
-      "logo": "https://telegra.ph/file/3cf1be03a3b1653cc98d1.jpg", 
+      "logo": "https://telegra.ph/file/25de56e1ac618c9ef00c8.jpg", 
       "keywords": [
          "telegram",
          "anime",
          "group",
          "manager",
-         "Emilia"
+         "Chifuyu"
       ],   
-   "repository": "https://github.com/IzumiCypherX/EmiliaAnimeBot",
+   "repository": "https://github.com/IzumiCypherX/Kanekikenbot",
    "addons": [
       {
          "options": {
