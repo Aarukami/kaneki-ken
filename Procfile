@@ -1,3 +1,3 @@
-worker: python3 -m EmiliaAnimeBot
-web: python3 -m EmiliaAnimeBot
+worker: python3 -m Chifuyubot
+web: python3 -m Chifuyuot
 ps:scale worker=1
