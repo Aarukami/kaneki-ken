@@ -7,7 +7,7 @@
 > If There's no Trace of This Repo in your Bot, We will be pushing a gban on you from our systems.
 
 
-### Can be found on telegram as [Chifuyu](https://t.me/chifuyu matsunoRoBot).
+### Can be found on telegram as [Chifuyu](https://t.me/Baji_X_chifuyu_bot).
 
 ##### For Session String, Run stringgen.py locally
 
@@ -40,7 +40,7 @@ Thanks To:
 
 
 
-The Support group can be reached out to at [Tokyo meeting](https://t.me/@mhaprvt), where you can ask for help about [chifuyu](https://t.me/chifuyumatsunoRoBOt), discover/request new features, report bugs, and stay in the loop whenever a new update is available. 
+The Support group can be reached out to at [Tokyo meeting](https://t.me/@mhaprvt), where you can ask for help about [chifuyu](https://t.me/Baji_X_chifuyu_bot), discover/request new features, report bugs, and stay in the loop whenever a new update is available. 
 
 <details>
 	<summary>Heroku Deploy</summary>
