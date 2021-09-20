@@ -1,5 +1,5 @@
 from telethon import events
-from EmiliaAnimeBot import telethn
+from Chifuyubot import telethn
 
 
 def register(**args):
