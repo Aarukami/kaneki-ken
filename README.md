@@ -7,7 +7,7 @@
 > If There's no Trace of This Repo in your Bot, We will be pushing a gban on you from our systems.
 
 
-### Can be found on telegram as [kaneki](https://t.me/chifuyuRoBot).
+### Can be found on telegram as [Chifuyu](https://t.me/chifuyuRoBot).
 
 ##### For Session String, Run stringgen.py locally
 
